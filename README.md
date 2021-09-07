@@ -34,6 +34,9 @@ Install method in linux
     
     $ cd Rad_Hat_Kyelogger
     
+    $ pip install pyinstaller
+    
+    $ pyinstaller --onefile YOUR FILE NAME.py
     
 
 
