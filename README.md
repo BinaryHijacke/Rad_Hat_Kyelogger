@@ -18,6 +18,22 @@ Kyelogger
 
 
 
+ __  __           _                      __  __ 
+|  \/  |_   _ ___| |__   __ _ _ __ __ _ / _|/ _|
+| |\/| | | | / __| '_ \ / _` | '__/ _` | |_| |_ 
+| |  | | |_| \__ \ | | | (_| | | | (_| |  _|  _|
+|_|  |_|\__,_|___/_| |_|\__,_|_|  \__,_|_| |_|  
 
 
 No Virus detetion
+
+
+Install method in linux
+
+    $ git clone https://github.com/BinaryHijacke/Rad_Hat_Kyelogger/
+    
+    $ cd Rad_Hat_Kyelogger
+    
+    
+
+
